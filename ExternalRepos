@@ -1,0 +1,7 @@
+1. table, tree (https://github.com/pterm/pterm.git)
+  #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+
+2. Linux based https://github.com/vishvananda/netlink.git
+
+3. https://github.com/ThreeDotsLabs/watermill.git
+  Watermill is a Go library for working efficiently with message streams. It is intended as a library for building event-driven applications, enabling event sourcing, CQRS, RPC over messages, sagas.
