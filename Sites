@@ -1,0 +1,6 @@
+Microservice design pattern
+  https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
+  https://microservices.io/patterns/data/cqrs.html
+  
+ Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases.
+ 
