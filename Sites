@@ -10,3 +10,4 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 http://zookeeper.apache.org/
 
 
+ClickHouse is an open-source column-oriented DBMS (columnar database management system) for online analytical processing (OLAP).
