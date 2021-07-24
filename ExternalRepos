@@ -7,3 +7,8 @@
   Watermill is a Go library for working efficiently with message streams. It is intended as a library for building event-driven applications, enabling event sourcing, CQRS, RPC over messages, sagas.
 4. go clean architecture
   https://github.com/roblaszczak/go-cleanarch
+  
+5. Go based chatbot
+      https://github.com/getgort/gort.git
+
+
