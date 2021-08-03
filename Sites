@@ -11,3 +11,10 @@ http://zookeeper.apache.org/
 
 
 ClickHouse is an open-source column-oriented DBMS (columnar database management system) for online analytical processing (OLAP).
+
+
+
+https://deepu.tech/memory-management-in-golang/
+❯ go build -gcflags '-m' gc.go
+
+
